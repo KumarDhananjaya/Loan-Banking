@@ -1,4 +1,4 @@
-This Project Allows the Bank Customer to Apply for an Loan Application also it Process the Application through Validations and by which it can also be tracked via Generating the new Reference number those Application. (This project was build for the hackathon participated by us with a Team of 2 and they are @KumarDhananjaya @Thejas 
+This Project Allows the Bank Customer to Apply for an Loan Application also it Process the Application through Validations and by which it can also be tracked via Generating the new Reference number those Application. (This project was build for the hackathon participated by us with a Team of 2 and they are @KumarDhananjaya @Thejas20001 
 
 
 # Getting Started with Create React App
